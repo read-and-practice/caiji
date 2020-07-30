@@ -1,0 +1,24 @@
+{
+  "name": "caiji",
+  "version": "1.0.0",
+  "description": "菜鸡互啄",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:343": "mocha src/leetcode/0343/0343.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/read-and-practice/caiji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/read-and-practice/caiji/issues"
+  },
+  "homepage": "https://github.com/read-and-practice/caiji#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
