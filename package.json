@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "test:343": "mocha src/leetcode/0343/0343.test.js"
+    "test:343": "mocha src/leetcode/0343/0343.test.js",
+    "test:08.03": "mocha src/leetcode/interview/08.03/08.03.test.js"
   },
   "repository": {
     "type": "git",
