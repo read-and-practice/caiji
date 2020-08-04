@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "test:207": "mocha src/leetcode/0207/0207.test.js",
     "test:343": "mocha src/leetcode/0343/0343.test.js",
     "test:415": "mocha src/leetcode/0415/0415.test.js",
     "test:08.03": "mocha src/leetcode/interview/08.03/08.03.test.js"
