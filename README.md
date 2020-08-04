@@ -14,3 +14,4 @@
 |题目|难度|---|zgl|
 |---|---|---|---|
 |[415. 字符串相加](https://leetcode-cn.com/problems/add-strings/)|简单||[查看](https://github.com/read-and-practice/caiji/blob/zgl/src/leetcode/0415/0415.js)|
+|[207. 课程表](https://leetcode-cn.com/problems/course-schedule/)|中等||[查看](https://github.com/read-and-practice/caiji/blob/zgl/src/leetcode/0207/0207.js)|
