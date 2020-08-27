@@ -1,4 +1,4 @@
-const {addStrings} = require('./0415.js')
+const { addStrings } = require('./0415.js')
 const assert = require('assert').strict
 
 describe('0415', () => {

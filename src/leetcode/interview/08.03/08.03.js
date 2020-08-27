@@ -2,19 +2,18 @@
  * @param {number[]} nums
  * @return {number}
  */
-var findMagicIndex = function(nums) {
-  let i = 0, len = nums.length;
-  while(i < len) {
+var findMagicIndex = function (nums) {
+  let i = 0; const len = nums.length
+  while (i < len) {
     if (i === nums[i]) {
       return i
     } else if (i < nums[i]) {
-      i = nums[i]; // 跳跃优化
+      i = nums[i] // 跳跃优化
     } else {
       i++
     }
   }
-  return -1;
-};
+  return -1
+}
 
-module.exports.findMagicIndex = findMagicIndex;
-
+module.exports.findMagicIndex = findMagicIndex

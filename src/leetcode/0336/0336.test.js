@@ -19,15 +19,15 @@ describe('0336', () => {
 
   it('1', () => {
     assert.deepStrictEqual(
-      palindromePairs(["abcd","dcba","lls","s","sssll"]),
-      [[0,1],[1,0],[2,4],[3,2]] 
+      palindromePairs(['abcd', 'dcba', 'lls', 's', 'sssll']),
+      [[0, 1], [1, 0], [2, 4], [3, 2]]
     )
   })
 
   it('2', () => {
     assert.deepStrictEqual(
-      palindromePairs(["bat","tab","cat"]),
-      [[0,1],[1,0]] 
+      palindromePairs(['bat', 'tab', 'cat']),
+      [[0, 1], [1, 0]]
     )
   })
 })

@@ -4,6 +4,7 @@
   "description": "菜鸡互啄",
   "main": "index.js",
   "scripts": {
+    "lint:fix": "eslint --fix src",
     "test": "echo \"Error: no test specified\" && exit 1",
     "test:207": "mocha src/leetcode/0207/0207.test.js",
     "test:336": "mocha src/leetcode/0336/0336.test.js",
@@ -25,6 +26,12 @@
   },
   "homepage": "https://github.com/read-and-practice/caiji#readme",
   "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
     "mocha": "^8.0.1"
   }
 }
