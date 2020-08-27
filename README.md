@@ -18,3 +18,4 @@
 |[336. 回文对](https://leetcode-cn.com/problems/palindrome-pairs/)|困难||[查看](https://github.com/read-and-practice/caiji/blob/zgl/src/leetcode/0336/0336.js)|
 |[696. 计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/)|简单||[查看](https://github.com/read-and-practice/caiji/blob/zgl/src/leetcode/0696/0696.js)|
 |[17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|中等||[查看](https://github.com/read-and-practice/caiji/blob/zgl/src/leetcode/0017/0017.js)|
+|[332. 重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)|中等||[查看](https://github.com/read-and-practice/caiji/blob/zgl/src/leetcode/0332/0332.js)|
