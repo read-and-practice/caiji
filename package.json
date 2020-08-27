@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "test:207": "mocha src/leetcode/0207/0207.test.js",
     "test:336": "mocha src/leetcode/0336/0336.test.js",
+    "test:332": "mocha src/leetcode/0332/0332.test.js",
     "test:343": "mocha src/leetcode/0343/0343.test.js",
     "test:415": "mocha src/leetcode/0415/0415.test.js",
     "test:696": "mocha src/leetcode/0696/0696.test.js",
